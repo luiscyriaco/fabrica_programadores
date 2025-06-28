@@ -1,15 +1,5 @@
 def escrever():
-    print('Hello World!')
+    print("Hello World!")
     
-    
-def line():
-    print('-' * 20)
-    
-
-line()
+print('Bom dia, Luis Ricardo')
 escrever()
-line()
-escrever()
-line()
-escrever()
-line()

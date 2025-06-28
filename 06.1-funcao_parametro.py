@@ -1,10 +1,10 @@
-def escreva(msg):
-    print(msg)
+def escrever(titulo):
+    print(titulo)
 
-escreva('-' * 40)
-escreva('Fábrica de Programadores')
-escreva('-' * 40)
-escreva('Turma de Sábado')
-escreva('-' * 40)
-escreva('Luis Ricardo')
-escreva('-' * 40)
+print('-' * 30)
+escrever('Fábrica de Programadores')
+print('-' * 30)
+escrever('Turma de Sábado')
+print('-' * 30)
+escrever('Luis Ricardo Cristoffoli')
+print('-' * 30)
