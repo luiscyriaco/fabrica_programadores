@@ -2,19 +2,22 @@ programa {
   funcao inicio() {
     // Programa criado no Portugol Studio
 
-        inteiro numero_1
-        inteiro numero_2
-        inteiro resultado
+    // Criação de variáveis
+    inteiro numero_1
+    inteiro numero_2
+    inteiro resultado
 
-        escreva("Digite o primeiro número: ")
-        leia(numero_1)
+    // Solicitação dos dados ao usuário
+    escreva("Digite o primeiro número: ")
+    leia(numero_1)
+    escreva("Digite o segundo número: ")
+    leia(numero_2)
 
-        escreva("Digite o segundo número: ")
-        leia(numero_2)
+    // Realização do cálculo de soma
+    resultado = numero_1 + numero_2
 
-        resultado = numero_1 + numero_2
-
-        escreva("A soma dos números é: ", resultado)
+    // Apresentação do resultado ao usuário
+    escreva("A soma dos números é: ", resultado)
     }
 }
 
