@@ -19,6 +19,3 @@ programa {
     escreva("Resultado da divisão: ", resultado)
     }
 }
-
-  }
-}
