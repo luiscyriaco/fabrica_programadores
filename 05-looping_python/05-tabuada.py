@@ -1,5 +1,7 @@
+# Base da tabuada
 base = 5
 
+# Exibição da tabuada
 print(f"1 X {base} = {1*base}")
 print(f"2 X {base} = {2*base}")
 print(f"3 X {base} = {3*base}")
