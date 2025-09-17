@@ -1,6 +1,7 @@
 programa {
   funcao inicio() {
-    
+    // Programa para calcular a média de um aluno com base em três notas
+
     // Criação das variáveis
     cadeia nome
     real nota1

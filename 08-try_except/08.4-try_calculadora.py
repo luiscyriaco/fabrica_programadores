@@ -1,3 +1,5 @@
+# Calculadora simples com tratamento de exceções
+
 letra = 's' # Variável de controle para o loop
 
 # Loop principal que continua enquanto o usuário quiser fazer operações

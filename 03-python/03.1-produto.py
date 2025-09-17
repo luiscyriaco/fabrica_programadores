@@ -1,3 +1,4 @@
+# Programa para calcular o preço final de um produto com desconto
 
 # Criação das variáveis que armazenam os dados do produto
 nome_produto = input("Digite o nome do produto: ")

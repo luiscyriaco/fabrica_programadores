@@ -1,4 +1,5 @@
 # Função com parâmetro para escrever títulos personalizados 
+
 def escrever(titulo):
     print(titulo)
 

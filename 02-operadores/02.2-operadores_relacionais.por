@@ -1,5 +1,7 @@
 programa {
     funcao inicio() {
+      // Programa para demonstrar o uso de operadores relacionais
+
       // Criando as variáveis
       inteiro a
       inteiro b

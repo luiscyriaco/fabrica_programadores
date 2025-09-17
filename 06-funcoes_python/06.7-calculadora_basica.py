@@ -1,4 +1,5 @@
 # Função para adição
+
 def adicao(a, b):
     return a + b
 

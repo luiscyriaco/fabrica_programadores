@@ -1,4 +1,5 @@
 # Função para escrever "Hello World!"
+
 def escrever():
     print("Hello World!")
 

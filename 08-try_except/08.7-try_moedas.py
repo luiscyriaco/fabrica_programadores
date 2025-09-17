@@ -1,3 +1,5 @@
+# Conversor de moedas com tratamento de exceções
+
 letra = 's' #' Variável de controle para o loop
 
 while letra.lower() == 's': 

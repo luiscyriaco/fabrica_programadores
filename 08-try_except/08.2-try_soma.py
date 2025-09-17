@@ -1,3 +1,5 @@
+# Programa que solicita dois números ao usuário, tenta somá-los e trata erros de entrada
+
 # Entrada de dados do usuário
 num1 = input("Digite o primeiro número: ")
 num2 = input("Digite o segundo número: ")

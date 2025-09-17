@@ -1,3 +1,5 @@
+# Exibição da tabuada do 5 usando loop while
+
 # Base da tabuada e intervalo personalizado
 base = int(input("Qual a base da sua tabuada: "))
 inicio = int(input("Por qual número deve iniciar: "))

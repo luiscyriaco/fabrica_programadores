@@ -1,6 +1,7 @@
 programa {
   funcao inicio() {
-    
+    // Programa para multiplicar dois números fornecidos pelo usuário
+
     // Criação das variáveis
     real numero1
     real numero2

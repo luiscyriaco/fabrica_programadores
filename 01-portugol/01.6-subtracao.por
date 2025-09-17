@@ -1,6 +1,7 @@
 programa {
   funcao inicio() {
-    
+    // Programa para realizar a subtração de dois números fornecidos pelo usuário
+
     // Criação das variáveis
     real numero1
     real numero2

@@ -1,19 +1,3 @@
-try:
-    numero1 = int(input("Digite o numerador: "))
-    numero2 = int(input("Digite o denominador: "))
-    resultado = numero1 / numero2
-except ZeroDivisionError:
-    print("Erro: divisão por zero não é permitida.")
-except ValueError:
-    print("Erro: você precisa digitar apenas números inteiros.")
-else:
-    print(f"Resultado da divisão: {resultado}")
-finally:
-    print("Operação finalizada.")
-
-
-
-
 # Tentamos executar o código que pode gerar erro
 try:
     # Solicitamos ao usuário dois números inteiros

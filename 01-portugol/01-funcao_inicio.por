@@ -1,6 +1,6 @@
 programa {
   funcao inicio() {
-    // Programa criado no Portugol Studio
+    // Programa para somar dois números inteiros fornecidos pelo usuário
 
     // Criação de variáveis
     inteiro numero_1

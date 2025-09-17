@@ -1,3 +1,5 @@
+# Programa de cadastro de contatos com menu interativo
+
 NOME_PROGRAMA = "Agenda de Contatos" # Nome do programa
 
 agenda = [] # lista para armazenar os contatos

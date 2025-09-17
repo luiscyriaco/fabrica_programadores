@@ -1,4 +1,5 @@
 # Função que sorteia uma tarefa aleatória de uma lista
+
 import random
 def sorteio(lista):
     return random.choice(lista)

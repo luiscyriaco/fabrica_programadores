@@ -1,3 +1,5 @@
+# Programa para exibir a tabuada de um número específico (neste caso, 5) sem usar loops.
+
 # Base da tabuada
 base = 5
 

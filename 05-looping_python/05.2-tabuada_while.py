@@ -1,3 +1,5 @@
+# Exibição da tabuada do 5 usando loop while
+
 # Base da tabuada
 base = 5
 i = 0 # Inicialização do contador

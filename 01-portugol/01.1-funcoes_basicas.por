@@ -1,5 +1,7 @@
 programa {
   funcao inicio() {
+    // Programa para ler e exibir nome e idade do usuário
+    
     cadeia nome
     inteiro idade
     

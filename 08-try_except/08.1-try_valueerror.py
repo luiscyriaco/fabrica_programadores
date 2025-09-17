@@ -1,4 +1,5 @@
 # Exemplo de tratamento de exceção ValueError
+
 try:
     numero = int(input("Digite um número inteiro: "))
 # 

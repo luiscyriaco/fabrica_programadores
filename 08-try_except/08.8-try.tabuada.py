@@ -1,3 +1,5 @@
+# Tabuada com tratamento de exceções
+
 try:
     base = int(input("Digite a base para ver sua tabuada: "))
     inicio = int(input("Digite o início da tabuada: "))

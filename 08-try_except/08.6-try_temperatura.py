@@ -1,3 +1,5 @@
+# Conversão de temperatura com tratamento de exceções
+
 print("Converte Celsius para Fahrenheit")
 
 try:

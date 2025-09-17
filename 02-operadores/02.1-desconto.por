@@ -1,5 +1,6 @@
 programa {
   funcao inicio() {
+    // Programa para calcular o preço final de um produto após aplicar um desconto
 
     // Declaração de variáveis
     real preco_original

@@ -1,6 +1,7 @@
 programa {
     funcao inicio() {
-
+      // Programa para demonstrar o uso de operadores lógicos
+      
       // Criação das variáveis
       inteiro a
       inteiro b

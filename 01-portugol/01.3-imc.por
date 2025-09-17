@@ -1,6 +1,7 @@
 programa {
   funcao inicio() {
-    
+    // Programa para calcular o Índice de Massa Corporal (IMC)
+
     // Criação das variáveis
     real peso
     real altura

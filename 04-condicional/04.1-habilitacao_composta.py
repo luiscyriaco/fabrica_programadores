@@ -1,3 +1,5 @@
+#
+
 # Entrada de dados
 nome = input("Qual é o seu nome? ")
 idade = int(input("Qual sua idade? "))

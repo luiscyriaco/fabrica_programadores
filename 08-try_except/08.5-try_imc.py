@@ -1,3 +1,5 @@
+# Cálculo do IMC com tratamento de exceções
+
 letra = 's' # Variável de controle para o loop
 
 while letra == 's': # Loop principal que continua enquanto até que o usuário opte por 'n'

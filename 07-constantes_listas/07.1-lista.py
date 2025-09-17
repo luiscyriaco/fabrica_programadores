@@ -1,3 +1,5 @@
+# Programa de demonstração de operações básicas com listas em Python
+
 # Lista inicial
 nomes = ["Joaquim", "Maria", "Ana"]
 print("Lista inicial: ", nomes)

@@ -1,5 +1,6 @@
 programa {
   funcao inicio() {
+    // Programa para calcular a porcentagem de um valor
     
     // Criação das variáveis
     real valor_total
