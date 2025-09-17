@@ -1,17 +1,18 @@
-letra = 's'
-while letra == 's':
+letra = 's' # Variável de controle para o loop
+
+while letra == 's': # Loop principal que continua enquanto até que o usuário opte por 'n'
+    
     try:
-        Altura = float(input('Digite sua altura (em metros, ex: 1.75): '))
-        Peso = float(input('Digite seu peso (em kg, ex: 70.5): '))
+        Altura = float(input('Digite sua altura (ex: 1.75): '))
+        Peso = float(input('Digite seu peso (ex: 70.5): '))
 
         # Validações básicas para evitar divisões por zero ou valores negativos irreais
         if Altura <= 0 or Peso <= 0:
             print("Altura e peso devem ser valores positivos e maiores que zero. Tente novamente.")
             continue # Volta para o início do loop para pedir os dados novamente
 
-        IMC = (Peso / Altura ** 2)
-        IMC = round(IMC, 2)
-        print ('O IMC é:', IMC)
+        IMC = (Peso / Altura ** 2) # Cálculo do IMC
+        print (f'O IMC é: {IMC:.2f}') # Exibe o IMC com duas casas decimais
 
         if IMC <= 18.4:
             print('Abaixo do peso')
@@ -23,7 +24,7 @@ while letra == 's':
             print('Obesidade Grau 1')
         elif IMC <= 39.9:
             print('Obesidade Grau 2')
-        elif IMC >= 40: # Alterei para >= para pegar valores a partir de 40
+        elif IMC >= 40:
             print('Obesidade Grau 3')
 
     except ValueError:

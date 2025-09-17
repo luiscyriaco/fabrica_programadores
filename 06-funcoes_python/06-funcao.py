@@ -2,5 +2,5 @@
 def escrever():
     print("Hello World!")
 
-print('Bom dia, Luis Ricardo')
+print('Bom dia, Aluno!') # Mensagem de boas-vindas
 escrever() # Chamando a função
