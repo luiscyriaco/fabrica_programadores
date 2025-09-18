@@ -22,4 +22,3 @@ pyautogui.sleep(0.5)
 pyautogui.moveTo(x=1900,y=1050,duration=1)
 pyautogui.sleep(2)
 pyautogui.mouseUp()
- 
